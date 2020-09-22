@@ -1,2 +1,10 @@
 # angular-php-mysql-boilerplate
-Full-Stack application built with Angular 10, PHP7 and MySQL Database: REST CRUD
+
+A simple REST API that supports GET, POST, PUT and DELETE requests and allow you to perform CRUD operations against a MySQL database to create, read, update and delete records from a database.
+
+## Built with
+
+- Client: Angular 10, TypeScript
+- Server: PHP7
+- UI: Material Design library, CSS3, HTML5
+- Database: MySQL, MySQLi
